@@ -1,4 +1,1 @@
-sqlite3-wapper
-==============
-
-sqlite3-wapper
+# A lightweight wrapper for sqlite3 connections.
